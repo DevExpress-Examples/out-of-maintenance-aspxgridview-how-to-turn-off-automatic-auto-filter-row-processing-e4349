@@ -12,7 +12,7 @@
 
 <p>This example demonstrates how to turn off the automatic auto filter row processing and perform the filtering of all rows simultaneously by a button click. Perform the following steps to implement this scenario:</p>
 <br />
-<p>1) Remove the standard client-side ValueChanged and KeyDown event handlers for the filter row editors and create the custom handler. Use the <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxClassesScriptsASPxClientEvent_ClearHandlerstopic"><u>ASPxClientEvent.ClearHandlers</u></a> and <a href="http://documentation.devexpress.com/#AspNet/DevExpressWebASPxClassesScriptsASPxClientEvent_AddHandlertopic"><u>ASPxClientEvent.AddHandler</u></a> methods for this purpose:</p>
+<p>1) Remove the standard client-side ValueChanged and KeyDown event handlers for the filter row editors and create the custom handler. Use the <a href="https://docs.devexpress.com/AspNet/js-ASPxClientEvent-1.ClearHandlers?p=netframework"><u>ASPxClientEvent.ClearHandlers</u></a> and <a href="https://docs.devexpress.com/AspNet/js-ASPxClientEvent-1.AddHandler(handler)?p=netframework"><u>ASPxClientEvent.AddHandler</u></a> methods for this purpose:</p>
 <br />
 
 
